@@ -1,4 +1,4 @@
-# 
+# Polymarket instant Trading Bot: volatility-detection & real-time-market-analysis is the best Polymarket trading-bot, featuring volatility-detection and real-time-market-analysis.
 
 
 
